@@ -1,0 +1,70 @@
+{
+  "name": "ui-testing-guide-code",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.12",
+    "@chakra-ui/react": "^1.6.0",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "framer-motion": "^4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "SKIP_PREFLIGHT_CHECK=true react-scripts start",
+    "build": "SKIP_PREFLIGHT_CHECK=true react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "storybook dev -p 6006",
+    "test-storybook": "test-storybook",
+    "build-storybook": "storybook build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^7.1.0",
+    "@storybook/addon-essentials": "^7.1.0",
+    "@storybook/addon-interactions": "^7.1.0",
+    "@storybook/addon-links": "^7.1.0",
+    "@storybook/jest": "^0.1.0",
+    "@storybook/node-logger": "^7.1.0",
+    "@storybook/preset-create-react-app": "^7.1.0",
+    "@storybook/react": "^7.1.0",
+    "@storybook/react-webpack5": "^7.1.0",
+    "@storybook/test-runner": "^0.11.0",
+    "@storybook/testing-library": "^0.2.0",
+    "storybook": "^7.1.0"
+  }
+}
