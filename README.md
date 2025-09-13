@@ -5,7 +5,7 @@
 - 📫 How to reach me shama.keskar@gmail.com
 - 😄 Pronouns: ...shama
 - ⚡ Fun fact: ...avid book reader n dancer. At one event, i kept on dancing for >8+ hrs non-stop :-)
-- My profile is in progress here: https://fantastic-ashil-kzfky5ah.dcms.site/dashboard/design/682b79f9d073e70012b1684f
+- My profile is in progress here: www.shamakeskar.com
 <!---
 ShamaVox/ShamaVox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
