@@ -16,12 +16,12 @@ I help B2B software teams turn LLM and agentic prototypes into production system
 
 | | |
 |---|---|
-| **$B+** | products launched and led across consumer, payments, retail and voice |
-| **11 → 110+** | engineering orgs built and scaled, twice: Amazon and Aspiration |
+| **$B+** | products launched and led across ads, enterprise, payments, retail and voice |
+| **11 → 110+** |  scaled & built |
 | **30% over target** | revenue for Amazon's first physical grocery store, a format that grew to **1,000+ stores** |
-| **250M+** | devices and 100K+ skills served by the 70+ person Alexa org I led |
-| **Months → weekly** | Alexa release cadence after the test platform I designed cleared 7,000+ regressions |
-| **32% → 72%** | credit card approval rate after I rebuilt a fintech core platform |
+| **250M+** | devices and 100K+ skills served by the 45+ person Alexa Skills QA Org I led |
+| **Months → weekly** | Physical Store release cadence after the test platform I designed cleared 7,000+ regressions |
+| **32% → 72%** | credit card approval rate after rebuilt & launch with 99% quality at a fintech core platform |
 | **~20%** | revenue lift per store from the multi-agent AI platform I built |
 | **3×** | technical cofounder & CTO: edge vision, accessibility AI, agentic commerce |
 
@@ -31,7 +31,7 @@ I help B2B software teams turn LLM and agentic prototypes into production system
 
 As cofounder and CTO of an AI-native wholesale platform for boutique and enterprise retailers, I designed and built the whole system.
 
-- **Same-day selling.** Listings were created the moment a purchase order arrived, and retailers were selling within an hour to a day
+- **Next-day selling.** Listings were created the moment a purchase order arrived, and retailers were selling within a day
 - **~20% revenue lift per store**, plus an early read on best sellers while stock was still fresh
 - **45% → 98%+** first-pass success · **96%** field-level accuracy on live data
 - Proof of concept → MVP in **four months** → paying customers
@@ -46,15 +46,15 @@ Built on a golden set, field-level evals, confidence scoring, deterministic orch
 
 ## AI companies built from zero
 
-- **SignAI / Gestura**: real-time ASL ↔ English interpreter. **93% accuracy, under 4 seconds end to end** on ordinary hardware. The prototype raised the company's pre-seed and was validated in demos with Microsoft.
+- **SignAI **: real-time ASL ↔ English interpreter. **93% accuracy, under 4 seconds end to end** on ordinary hardware. The MVP resulted in fund-raised and was validated in demos with Microsoft.
 - **Nickelytics**: edge computer vision for billing-grade ad measurement from moving vehicles, launched on **100 delivery robots in Los Angeles**.
-- **[SlideLang](https://github.com/ShamaVox/aifund-slidelang)**: deck-as-code compiler with validation, repair and three-way merge. Demonstrated to Andrew Ng's AI Fund.
+- **[SlideLang](https://github.com/ShamaVox/aifund-slidelang)**: deck-as-code compiler with validation, repair and three-way merge. Demonstrated to AI Fund.
 
 ## Leadership at scale
 
-- **Amazon:** built the founding engineering team for the first physical grocery store (11 → 110+), launched 30% over revenue target; drove 900 defects to zero launch blockers in a month; led the Alexa Skills org on 250M+ devices; designed Hydra (Lambda, Step Functions, DynamoDB, S3) to move Alexa to weekly releases; conceived Conversation Discovery, shipped as an Alexa feature
-- **Aspiration:** scaled engineering 11 → 110+ to launch a carbon-neutral credit card; monolith to microservices, latency 30s → 3s, 60% fewer incidents; Innovator Award and Founder Award
-- **Google · LinkedIn · Visa · MNTN:** engineering-productivity leadership on Google's ads platform; LinkedIn's mobile overhaul shipped in three months; engineering manager at Visa; customer-impacting incidents to zero at MNTN
+- **Amazon:** built the founding engineering team at 3 startups, build and scaled teams from 4 to 45 and 11 to 100+ of leads/ managers (11 → 110+), launched 30% over revenue target; drove 900 defects to zero launch blockers in a month; led the Alexa Skills quality on 250M+ devices; designed Hydra (Lambda, Step Functions, DynamoDB, S3) to move Alexa to weekly releases; conceived Conversation Discovery, shipped as an Alexa feature
+- **Aspiration:** scaled engineering 4 to 45+ to launch a carbon-neutral credit card; monolith to microservices, latency 30s → 3s, 60% fewer incidents; Innovator Award and Founder Award
+- **Google · LinkedIn · Visa · MNTN:** engineering-productivity leadership on Google's ads platform; LinkedIn's mobile overhaul shipped in three months; engineering manager at Visa; customer-impacting incidents to zero 
 
 ## What I build
 
