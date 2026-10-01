@@ -1,38 +1,85 @@
-# Shama Keskar
+# Shama Keskar · Fractional CTO & Chief AI Engineer
 
-## I make AI features reliable enough for real customers.
+### I make AI reliable enough to run a business on.
 
-Hands-on AI engineer and former CTO/cofounder. I help B2B software teams turn LLM and agentic prototypes into production systems with evals, validation, confidence scoring, bounded repair, observability, and a team-owned handoff.
+Three-time technical cofounder and CTO. I've **launched and led billion-dollar-scale products** at Google, LinkedIn, Visa and Amazon, **scaled engineering organizations past 110**, worked with **private equity and on M&A decisions**, and I still write the hard parts myself.
 
-**Currently available:** 15-Day AI Reliability Sprints, forward-deployed AI builds, and hands-on fractional CTO engagements.
+I help B2B software teams turn LLM and agentic prototypes into production systems with evals, validation, confidence scoring, bounded repair, observability, and a team-owned handoff.
 
-[Website](https://shamavox.github.io ) · [Email](mailto:shama.keskar@gmail.com) · [GitHub](https://github.com/ShamaVox )
+**Available now:** 15-Day AI Reliability Sprints · forward-deployed AI builds · hands-on fractional CTO engagements · technical diligence for investors and PE
+
+[Website](https://shamavox.github.io/) · [Book 30 min](https://calendly.com/shama-keskar/30min) · [Email](mailto:shama.keskar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shamakeskar)
 
 ---
 
-## The proof
+## Impact
 
-I built and shipped a multi-agent catalog platform for boutique retailers:
+| | |
+|---|---|
+| **$B+** | products launched and led across consumer, payments, retail and voice |
+| **11 → 110+** | engineering orgs built and scaled, twice: Amazon and Aspiration |
+| **30% over target** | revenue for Amazon's first physical grocery store, a format that grew to **1,000+ stores** |
+| **250M+** | devices and 100K+ skills served by the 70+ person Alexa org I led |
+| **Months → weekly** | Alexa release cadence after the test platform I designed cleared 7,000+ regressions |
+| **32% → 72%** | credit card approval rate after I rebuilt a fintech core platform |
+| **~20%** | revenue lift per store from the multi-agent AI platform I built |
+| **3×** | technical cofounder & CTO: edge vision, accessibility AI, agentic commerce |
 
-- 45% → 98%+ first-pass success
-- 96% field-level extraction accuracy on live data
-- Approximately 20 hours/week saved per buyer
-- Catalog onboarding reduced from days to under one hour
+---
 
-The system used a golden set, field-level evals, confidence scoring, deterministic orchestration, bounded repair, human review, versioned prompts/models, and correction loops.
+## The proof: multi-agent platform, idea to revenue
+
+As cofounder and CTO of an AI-native wholesale platform for boutique and enterprise retailers, I designed and built the whole system.
+
+- **Same-day selling.** Listings were created the moment a purchase order arrived, and retailers were selling within an hour to a day
+- **~20% revenue lift per store**, plus an early read on best sellers while stock was still fresh
+- **45% → 98%+** first-pass success · **96%** field-level accuracy on live data
+- Proof of concept → MVP in **four months** → paying customers
+
+Built on a golden set, field-level evals, confidence scoring, deterministic orchestration of specialized agents, bounded repair, human review, versioned prompts and models, and correction loops that improve the system with every fix.
+
+`Python` `FastAPI` `Next.js` `Postgres + pgvector` `Redis` `AWS` `Claude / OpenAI` `Datadog`
+
+**Generation is solved. Trust is the product.**
+
+---
+
+## AI companies built from zero
+
+- **SignAI / Gestura**: real-time ASL ↔ English interpreter. **93% accuracy, under 4 seconds end to end** on ordinary hardware. The prototype raised the company's pre-seed and was validated in demos with Microsoft.
+- **Nickelytics**: edge computer vision for billing-grade ad measurement from moving vehicles, launched on **100 delivery robots in Los Angeles**.
+- **[SlideLang](https://github.com/ShamaVox/aifund-slidelang)**: deck-as-code compiler with validation, repair and three-way merge. Demonstrated to Andrew Ng's AI Fund.
+
+## Leadership at scale
+
+- **Amazon:** built the founding engineering team for the first physical grocery store (11 → 110+), launched 30% over revenue target; drove 900 defects to zero launch blockers in a month; led the Alexa Skills org on 250M+ devices; designed Hydra (Lambda, Step Functions, DynamoDB, S3) to move Alexa to weekly releases; conceived Conversation Discovery, shipped as an Alexa feature
+- **Aspiration:** scaled engineering 11 → 110+ to launch a carbon-neutral credit card; monolith to microservices, latency 30s → 3s, 60% fewer incidents; Innovator Award and Founder Award
+- **Google · LinkedIn · Visa · MNTN:** engineering-productivity leadership on Google's ads platform; LinkedIn's mobile overhaul shipped in three months; engineering manager at Visa; customer-impacting incidents to zero at MNTN
 
 ## What I build
 
 - LLM and agentic workflows that can be evaluated and operated
-- Document, catalog, and structured-data extraction systems
+- Document, catalog and structured-data extraction systems
 - RAG pipelines with measurable retrieval and answer quality
-- Validation, confidence scoring, repair, and human-review loops
+- Validation, confidence scoring, repair and human-review loops
 - AI observability and regression testing
 - Forward-deployed product integrations
-- Technical roadmaps, architecture, hiring, and investor diligence
+- Technical strategy, architecture, hiring, board and investor diligence, PE and M&A technology assessment
+
+## Stack
+
+**AI:** Claude & OpenAI APIs · multi-agent orchestration · RAG · eval harnesses · prompt versioning · confidence scoring · LangChain / LangSmith
+**App:** Python · FastAPI · Pydantic · TypeScript · React · Next.js · GraphQL
+**Data & infra:** PostgreSQL · pgvector · Weaviate · Redis · AWS · Vercel · Datadog · Shopify APIs
+**Vision & speech:** MediaPipe · CNNs · image extraction · Faster-Whisper · TTS
+
+---
 
 ## The rule
 
-If your AI feature works in a demo but fails on real customer inputs, start by measuring the failure—not by adding another agent.
+If your AI feature works in a demo but fails on real customer inputs, start by measuring the failure, not by adding another agent.
 
-[Read about the Reliability Sprint](https://shamavox.github.io ) · [Email me the failing workflow](mailto:shama.keskar@gmail.com)
+[Read about the Reliability Sprint](https://shamavox.github.io/#work-with-me) · [Email me the failing workflow](mailto:shama.keskar@gmail.com?subject=Failing%20AI%20workflow)
+
+*Top Women Leaders of 2025 (Women We Admire) · Women in Tech Global Conference 2025 speaker · Mentor, Women in Tech / Women in AI . Women In AI - Changemaker by MIT . Impact Award Nominee
+
