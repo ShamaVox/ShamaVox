@@ -1,4 +1,4 @@
-# Shama Keskar · Fractional CTO & Chief AI Engineer
+# Shama Keskar · Founder * CTO / HEAD OF AI ENGINEERING | HANDS-ON AGENTIC AI BUILDER
 
 ### I make AI reliable enough to run a business on.
 
