@@ -1,8 +1,8 @@
-# Shama Keskar · Founder * CTO / HEAD OF AI ENGINEERING | HANDS-ON AGENTIC AI BUILDER
+# Shama Keskar · Technical Founder & CTO | Head of Automation & Productivity | HEAD OF AI ENGINEERING | HANDS-ON AGENTIC AI BUILDER
 
 ### I make AI reliable enough to run a business on.
 
-Three-time technical cofounder and CTO. I've **launched and led billion-dollar-scale products** at Google, LinkedIn, Visa and Amazon, **scaled engineering organizations past 110**, worked with **private equity and on M&A decisions**, and I still write the hard parts myself.
+Three-time technical cofounder and CTO. I've **launched and led billion-dollar-scale products** at Google, LinkedIn, Visa and Amazon, **scaled engineering organizations past 70**, worked with **private equity and on M&A decisions**, and I still write the hard parts myself.
 
 I help B2B software teams turn LLM and agentic prototypes into production systems with evals, validation, confidence scoring, bounded repair, observability, and a team-owned handoff.
 
