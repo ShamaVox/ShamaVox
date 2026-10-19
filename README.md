@@ -8,10 +8,10 @@
 - **Speed without breaking things.** I moved Alexa to weekly releases across 250M+ devices, and took an engineering org from 20+ production incidents a week to zero.
 - **Products and teams built from zero.** Three startups as technical co-founder & CTO, and engineering orgs scaled at Amazon, Aspiration and MNTN.
 
-**Now:** Technical Cofounder & CTO at a Fashion Tech, **Building a Fam Tech ** and **[Plumbline] (https://shamavox.github.io/plumbline-site/)**, Quality Infrastructure for AI Agents.
+**Now:** Technical Cofounder & CTO @FashionTech, Founder & CEO @FamTech and Building Plumbline: Quality Infrastructure for AI Agents, check out here: https://shamavox.github.io/plumbline-site/ 
 
 **Background:** Technical co-founder & CTO ×3 · Senior Director of Engineering · Google · LinkedIn · Visa · Amazon
 
 **Stack:** Python · TypeScript · FastAPI · React/Next.js · Postgres + pgvector · Redis · AWS · Claude / GPT / Gemini · RAG · multi-agent orchestration · evals · OpenCV
 
-[Website](https://shamavox.github.io/) · [LinkedIn](https://www.linkedin.com/in/shamakeskar) · [Substack](https://shamakeskar.substack.com/) · [Email](mailto:shama@shamakeskar.com)
+[Website](https://shamakeskar.com) · [LinkedIn](https://www.linkedin.com/in/shamakeskar) · [Substack](https://shamakeskar.substack.com/) · [Email](mailto:shama@shamakeskar.com)
