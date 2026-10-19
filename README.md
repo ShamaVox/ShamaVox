@@ -8,7 +8,7 @@
 - **Speed without breaking things.** I moved Alexa to weekly releases across 250M+ devices, and took an engineering org from 20+ production incidents a week to zero.
 - **Products and teams built from zero.** Three startups as technical co-founder & CTO, and engineering orgs scaled at Amazon, Aspiration and MNTN.
 
-**Now:** building in fashion tech (stealth) and **[Plumbline](https://shamakeskar.substack.com/p/what-keeps-you-up-at-night-now-that)**, quality infrastructure for AI agents.
+**Now:** Technical Cofounder & CTO at a Fashion Tech, **Building a Fam Tech ** and **[Plumbline] (https://shamavox.github.io/plumbline-site/)**, Quality Infrastructure for AI Agents.
 
 **Background:** Technical co-founder & CTO ×3 · Senior Director of Engineering · Google · LinkedIn · Visa · Amazon
 
