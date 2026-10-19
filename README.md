@@ -1,4 +1,4 @@
-## Hi, I'm Shama 👋
+## Hi, I'm Shama 👋 A Hands-on Chief Technology Officer and Head of Engineering (AI and Productivity)
 
 ### I take AI from demo to dependable, and build the teams that keep it that way.
 
